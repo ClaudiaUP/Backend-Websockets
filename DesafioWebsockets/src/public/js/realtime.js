@@ -14,7 +14,7 @@ function updateProductList(products) {
         <article class="container">
       <div class="card">
         <div class="imgBx">
-          <img src="${product.thumbnail}" width="150" />
+          <img src="${product.thumbnail}" width="100" />
         </div>
         <div class="contentBx">
           <h2>${product.title}</h2>
@@ -26,12 +26,12 @@ function updateProductList(products) {
             <span>10</span>
           </div>
           <div class="color">
-            <h3>${product.price}</h3>
+            <h2>${product.price}</h2>
             <span></span>
             <span></span>
             <span></span>
           </div>
-          <a href="#">Buy Now</a>
+          <a href="#">Comprar</a>
         </div>
       </div>
       

@@ -1,0 +1,57 @@
+[
+  {
+    "id": 5,
+    "title": "Proyector",
+    "description": "Ultra Led 2000",
+    "price": "63000",
+    "category": "Audio y Video",
+    "status": true,
+    "thumbnail": "./imagenes/proyector.jpg",
+    "code": "azxs",
+    "stock": "35"
+  },
+  {
+    "id": 6,
+    "title": "Heladera",
+    "description": "Frezer no frost",
+    "price": "200000",
+    "category": "Electrodomésticos",
+    "status": true,
+    "thumbnail": "./imagenes/heladera.jpg",
+    "code": "qwa1",
+    "stock": "102"
+  },
+  {
+    "id": 7,
+    "title": "Cocina",
+    "description": "4 hornallas y timer",
+    "price": "150000",
+    "category": "Electrodomésticos",
+    "status": true,
+    "thumbnail": "./imagenes/cocina.jpg",
+    "code": "kjy3",
+    "stock": "28"
+  },
+  {
+    "id": 8,
+    "title": "aspiradora",
+    "description": "1000W",
+    "price": "85000",
+    "category": "Electrodomésticos",
+    "status": true,
+    "thumbnail": "./imagenes/aspiradora.jpg",
+    "code": "hyt5",
+    "stock": "75"
+  },
+  {
+    "id": 9,
+    "title": "Lavarropas",
+    "description": "Horizontal",
+    "price": "185000",
+    "category": "Electrodomésticos",
+    "status": true,
+    "thumbnail": "./imagenes/lavarropas.jpg",
+    "code": "nbh6",
+    "stock": "28"
+  }
+]

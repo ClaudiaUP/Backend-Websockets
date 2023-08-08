@@ -158,7 +158,7 @@ export default class ProductManager {
 
  async function generator(){
 
- const productmanager=new ProductManager("./database/products.json");
+ const productmanager=new ProductManager("./files/products.json");
  await productmanager.addProduct("Heladera","No fros",1500,"imagen23","abc123",500)
 // // await productmanager.addProduct("product2","description2",1500,"url","abc122",500)
 // // await productmanager.addProduct("product3","description2",1500,"url","abc125",500)
